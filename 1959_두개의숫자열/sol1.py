@@ -1,6 +1,7 @@
 import sys
 sys.stdin = open("input.txt")
 
+
 T = int(input())
 
 def ab_max(info, a_numbers, b_numbers):
