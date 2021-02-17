@@ -13,7 +13,7 @@ def snail(N):
     d = 0
 
     # 숫자 입력
-    for i in range(0, N*N):
+    for i in range(N*N):
         # N을 입력
         numbers[cy][cx] = i+1
         # 현재 방향 전환
