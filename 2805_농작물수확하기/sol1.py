@@ -20,7 +20,7 @@ def harvest(N,filed):
     # 오른쪽 값
     # 오른쪽 출발 감소되는 방향
     # 범위 설정을 위한 임의의 값 설정
-    r=-1
+    r = -1
     for i in range(N-1, center_idx, -1):
         r += 1
         for j in range(center_idx-r, center_idx+r+1):
