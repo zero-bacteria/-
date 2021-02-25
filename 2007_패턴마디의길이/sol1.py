@@ -13,10 +13,10 @@ for tc in range(1, T+1):
         # temp에 하나씩 추가해줌
         temp.append(words[i])
         # temp의 첫단어가 다음에 다시나온다?
-        if temp[0] == words[i+1]:
+        # if temp[0] == words[i+1]:
             # 그다음부터 템프의 길이만큼 비교해봤을때 같으면 끝
-            if temp == words[i+1:i+len(temp)+1]:
-                break
+        if temp == words[i+1:i+len(temp)+1]:
+            break
     result = len(temp)
     print("#{} {}".format(tc, result))
 
