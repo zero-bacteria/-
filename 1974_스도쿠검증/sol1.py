@@ -18,13 +18,14 @@ def check(numbers):
     # 3x3 검증
     # 0부터 3단위로 반복
     for i in range(0,7,3):
-        total = 0
-        # 해당 범위 합
-        for j in range(3):
+        for j in range(0,7,3):
+            total = 0
+            # 해당 범위 합
             for k in range(3):
-                total += numbers[i+j][k]
-        if total != 45:
-            return 0
+                for l in range(3):
+                    total += numbers[i+k][j+l]
+            if total != 45:
+                return 0
 
     return 1
 
