@@ -7,7 +7,7 @@ def sell(N,M,K, arrival_info):
     # 일단 손님 시간순으로 정렬
     for i in range(len(arrival_info)-1,0,-1):
         for j in range(0,i):
-            if arrival_info[j]>arrival_info[j+1]:
+            if arrival_info[j] > arrival_info[j+1]:
                 arrival_info[j], arrival_info[j+1] = arrival_info[j+1], arrival_info[j]
     # 현재 붕어빵 수
     cnt = - K
