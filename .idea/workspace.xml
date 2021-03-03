@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c99d510a-ab70-4004-8754-0687f702b232" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1860_진기의 최고급 붕어빵/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1860_진기의 최고급 붕어빵/sol1.py" afterDir="false" />
-    </list>
+    <list default="true" id="c99d510a-ab70-4004-8754-0687f702b232" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,16 +18,16 @@
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="15" />
           <entry key="project.open.time.6" value="10" />
-          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="44" />
+          <entry key="project.opened" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="160" />
+          <entry key="py" value="161" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
@@ -38,7 +35,7 @@
         <counts>
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="160" />
+          <entry key="Python" value="161" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -109,11 +106,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1493_수의 새로운 연산/sol1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+            <state relative-caret-position="680">
+              <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1225_암호 생성기/sol1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="30" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -122,7 +128,7 @@
         <entry file="file://$PROJECT_DIR$/1493_수의 새로운 연산/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -184,7 +190,6 @@
         <option value="$PROJECT_DIR$/data_structure/quick_sort.py" />
         <option value="$PROJECT_DIR$/1974_스도쿠검증/sol1.py" />
         <option value="$PROJECT_DIR$/1225_암호 생성기/input.txt" />
-        <option value="$PROJECT_DIR$/1225_암호 생성기/sol1.py" />
         <option value="$PROJECT_DIR$/4408_자기방으로 돌아가기/sol1.py" />
         <option value="$PROJECT_DIR$/1859_백만장자 프로젝트/sol1.py" />
         <option value="$PROJECT_DIR$/2007_패턴마디의길이/sol1.py" />
@@ -193,12 +198,12 @@
         <option value="$PROJECT_DIR$/6019_기차사이의파리/sol1.py" />
         <option value="$PROJECT_DIR$/1493_수의 새로운 연산/sol1.py" />
         <option value="$PROJECT_DIR$/1493_수의 새로운 연산/input.txt" />
+        <option value="$PROJECT_DIR$/1225_암호 생성기/sol1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1913" />
-    <option name="y" value="26" />
+    <option name="x" value="82" />
     <option name="width" value="854" />
     <option name="height" value="1017" />
   </component>
@@ -208,7 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,17 +222,13 @@
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="1493_수의 새로운 연산" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,10 +406,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="26" width="854" height="1017" extended-state="0" />
-    <editor active="true" />
+    <frame x="82" y="0" width="854" height="1017" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37745097" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37745097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -484,7 +483,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/1225_암호 생성기/sol1.py</url>
-          <line>6</line>
+          <line>1</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -818,13 +817,6 @@
     <entry file="file://$PROJECT_DIR$/1860_진기의 최고급 붕어빵/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1225_암호 생성기/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3499_퍼펙트셔플/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -884,14 +876,21 @@
     <entry file="file://$PROJECT_DIR$/1493_수의 새로운 연산/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1493_수의 새로운 연산/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+        <state relative-caret-position="680">
+          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1225_암호 생성기/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="30" selection-end-column="38" />
         </state>
       </provider>
     </entry>
